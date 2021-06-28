@@ -1,0 +1,1 @@
+https://github.com/shayypy/guilded.py.git@1.0.0
